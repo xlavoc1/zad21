@@ -1,0 +1,33 @@
+body{
+    /* background-color: darkgray; */
+}
+div{
+    background-color: darkgray;
+    width: 100px;
+    height: 100px;
+    margin: 2px;
+
+}
+p{
+    padding: 1px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 8px;
+    text-align: justify;
+}
+
+.one {
+    background-color: greenyellow;
+}
+
+
+.five {
+    background-color: chocolate;
+}
+
+.ten {
+    background-color: dodgerblue;
+}
+
+.two, .eight{
+    opacity: .6;
+}
